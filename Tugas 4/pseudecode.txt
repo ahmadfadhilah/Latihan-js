@@ -1,0 +1,14 @@
+PROGRAMmenghitung_luas_lingkaran
+
+Deklarasi
+var phi : float;
+var r,luas:integer;
+
+Algoritma
+phi <-- 3.14;
+
+read (r); {diinput user}
+
+luas <-- phi * r *r;
+
+write(luas);
